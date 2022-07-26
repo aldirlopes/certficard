@@ -13,4 +13,4 @@ Projeto com uma coletânea de resultados dos desafios propostos na Imersão Dev 
 
 
 
-![image](https://raw.githubusercontent.com/aldirlopes/certificard/main/images/site.png)
+![image](https://raw.githubusercontent.com/aldirlopes/certificard/main/images/site.png#vitrinedev)
